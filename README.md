@@ -4,6 +4,7 @@ Low tech software and hardware. Low resources. Recyling.
 ### OS
 [Collapse OS](https://collapseos.org/)
 ### Mobile
+### Art
 ## Hardware
 ### Phones
 ### Computers
