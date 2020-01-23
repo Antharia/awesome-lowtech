@@ -10,3 +10,5 @@ Low tech software and hardware. Low resources. Recyling.
 ## Hardware
 ### Phones
 ### Computers
+## Notes
+It started as a joke. Please PR to make it serious.
