@@ -20,8 +20,8 @@ If you want to contribute please check [Contribute section](.github/CONTRIBUTING
 ### Phones
 ### Computers
 ### Externals
-[Solar LOW<-TECH MAGAZINE ](https://solar.lowtechmagazine.com/) - Solar powered magazine about Low Tech
-[Homebrew Server ](https://homebrewserver.club/) - Self Host Low tech meetups
-[Open repair Alliance](https://openrepair.org/) - Make electronic products more durable and easier to repair.
+- [Solar LOW<-TECH MAGAZINE ](https://solar.lowtechmagazine.com/) - Solar powered magazine about Low Tech
+- [Homebrew Server ](https://homebrewserver.club/) - Self Host Low tech meetups
+- [Open repair Alliance](https://openrepair.org/) - Make electronic products more durable and easier to repair.
 ## Notes
 It started as a "what if". Please PR to make it serious.
