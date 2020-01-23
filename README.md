@@ -1,11 +1,15 @@
 # awesome-lowtech
 Low tech software and hardware. Low resources. Recyling.
+If you want to contribute please check [Contribute section](.github/CONTRIBUTING.md)
 ## Software
 ### OS
 [Collapse OS](https://collapseos.org/)
 [Kai OS](https://www.kaiostech.com/) - An OS for low level smartphones
 ### Decentralized alternatives to mainstream services
 [twtxt](https://twtxt.readthedocs.io/en/latest/) - Alternative to Twitter
+
+### Networks
+[Freifunk](https://freifunk.net/en/) - German community Wireless Networks
 
 ### Mobile
 ### Art
