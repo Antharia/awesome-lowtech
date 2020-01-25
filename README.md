@@ -18,10 +18,13 @@ If you want to contribute please check [Contribute section](.github/CONTRIBUTING
 ### Art
 ## Hardware
 ### Phones
+- [Light Phone](https://www.thelightphone.com/)
 ### Computers
-### Externals
+## Inspiration
 - [Solar LOW<-TECH MAGAZINE ](https://solar.lowtechmagazine.com/) - Solar powered magazine about Low Tech
+- [Low-Tech Magazine](https://www.lowtechmagazine.com/)
 - [Homebrew Server ](https://homebrewserver.club/) - Self Host Low tech meetups
 - [Open repair Alliance](https://openrepair.org/) - Make electronic products more durable and easier to repair.
+- [GreenIT](https://www.greenit.fr/) - Digital low-tech french community
 ## Notes
-It started as a "what if". Please PR to make it serious.
+This list just started. Please PR to make it really "awesome".
