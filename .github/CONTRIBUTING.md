@@ -11,7 +11,7 @@ If you don't agree with one of those points please feel free to ask and suggest 
 - Can you use it on existing hardware ? (ex :Reuse the old phone or computer i store in my garage)
 - Is it free and easy to copy/modify ?
 - Can a relative install it, use it ?
-- Is it autonomus and not depandant on other platforms ? 
+- Is it autonomous and not dependant to other platforms ? 
 - Is it robust and durable ?
 
 ### Bonus
