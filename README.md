@@ -11,6 +11,7 @@ If you want to contribute please check [Contribute section](.github/CONTRIBUTING
 - [Collapse OS](https://collapseos.org/)
 - [Kai OS](https://www.kaiostech.com/) - An OS for low level smartphones
 - [antiX Linux](https://antixlinux.com/) - Lightweight Linux distro
+- [LXLE](https://www.lxle.net/) - Linux distro for aging computers
 ### Decentralized alternatives to mainstream services
 - [twtxt](https://twtxt.readthedocs.io/en/latest/) - Alternative to Twitter
 
