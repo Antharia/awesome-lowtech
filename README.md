@@ -20,6 +20,8 @@ If you want to contribute please check [Contribute section](.github/CONTRIBUTING
 
 ### Mobile
 ### Art
+### Web
+- [Simple Web](https://simpleweb.iscute.ovh/) - Simple web is cute
 ## Hardware
 ### Phones
 - [Light Phone](https://www.thelightphone.com/)
