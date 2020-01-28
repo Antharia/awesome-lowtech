@@ -3,14 +3,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Low tech, high lives !
->    __                     ______          __         __  ___       __       __    _                
->   / /   ____ _      __   /_  __/__  _____/ /_       / / / (_)___ _/ /_     / /   (_)   _____  _____
->  / /   / __ \ | /| / /    / / / _ \/ ___/ __ \     / /_/ / / __ `/ __ \   / /   / / | / / _ \/ ___/
-> / /___/ /_/ / |/ |/ /    / / /  __/ /__/ / / /    / __  / / /_/ / / / /  / /___/ /| |/ /  __(__  ) 
->/_____/\____/|__/|__/    /_/  \___/\___/_/ /_( )  /_/ /_/_/\__, /_/ /_/  /_____/_/ |___/\___/____/  
-                                             |/           /____/                                    
-
-
 
 Low tech software and hardware. Low resources. Recyling.
 If you want to contribute please check [Contribute section](.github/CONTRIBUTING.md)
