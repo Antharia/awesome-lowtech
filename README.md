@@ -23,6 +23,7 @@ If you want to contribute please check [Contribute section](.github/CONTRIBUTING
 ### Phones
 - [Light Phone](https://www.thelightphone.com/)
 ### Computers
+- [Jerry](http://www.youandjerrycan.org/) - Jerry is an opensource computer built in a jerrycan
 ## Inspiration
 - [Solar LOW<-TECH MAGAZINE ](https://solar.lowtechmagazine.com/) - Solar powered magazine about Low Tech
 - [Low-Tech Magazine](https://www.lowtechmagazine.com/)
