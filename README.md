@@ -10,6 +10,7 @@ If you want to contribute please check [Contribute section](.github/CONTRIBUTING
 ### OS
 - [Collapse OS](https://collapseos.org/)
 - [Kai OS](https://www.kaiostech.com/) - An OS for low level smartphones
+- [antiX Linux](https://antixlinux.com/) - Lightweight Linux distro
 ### Decentralized alternatives to mainstream services
 - [twtxt](https://twtxt.readthedocs.io/en/latest/) - Alternative to Twitter
 
