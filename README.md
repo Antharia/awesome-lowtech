@@ -10,18 +10,28 @@ If you want to contribute please check [Contribute section](.github/CONTRIBUTING
 ### OS
 - [Collapse OS](https://collapseos.org/)
 - [Kai OS](https://www.kaiostech.com/) - An OS for low level smartphones
+- [antiX Linux](https://antixlinux.com/) - Lightweight Linux distro
+- [LXLE](https://www.lxle.net/) - Linux distro for aging computers
 ### Decentralized alternatives to mainstream services
 - [twtxt](https://twtxt.readthedocs.io/en/latest/) - Alternative to Twitter
+- [Zeronet](https://zeronet.io/) - Alternative to WWW
+- [Beaker browser](https://beakerbrowser.com/) -  Alternative to WWW
 
-### Networks
+### Cloud
+- [Syncthing](https://syncthing.net/) - Local and decentralized file sync software
+
+## Networks
 - [Freifunk](https://freifunk.net/en/) - German community Wireless Networks
 
 ### Mobile
 ### Art
+### Web
+- [Simple Web](https://simpleweb.iscute.ovh/) - Simple web is cute
 ## Hardware
 ### Phones
 - [Light Phone](https://www.thelightphone.com/)
 ### Computers
+- [Jerry](http://www.youandjerrycan.org/) - Jerry is an opensource computer built in a jerrycan
 ## Inspiration
 - [Solar LOW<-TECH MAGAZINE ](https://solar.lowtechmagazine.com/) - Solar powered magazine about Low Tech
 - [Low-Tech Magazine](https://www.lowtechmagazine.com/)
