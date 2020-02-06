@@ -14,15 +14,19 @@ If you want to contribute please check [Contribute section](.github/CONTRIBUTING
 - [LXLE](https://www.lxle.net/) - Linux distro for aging computers
 ### Decentralized alternatives to mainstream services
 - [twtxt](https://twtxt.readthedocs.io/en/latest/) - Alternative to Twitter
+- [Zeronet](https://zeronet.io/) - Alternative to WWW
+- [Beaker browser](https://beakerbrowser.com/) -  Alternative to WWW
 
-### Networks
+### Cloud
+- [Syncthing](https://syncthing.net/) - Local and decentralized file sync software
+
+## Networks
 - [Freifunk](https://freifunk.net/en/) - German community Wireless Networks
 
 ### Mobile
 ### Art
 ### Web
 - [Simple Web](https://simpleweb.iscute.ovh/) - Simple web is cute
-- [Fit on a floppy](https://fitonafloppy.website/)
 ## Hardware
 ### Phones
 - [Light Phone](https://www.thelightphone.com/)
