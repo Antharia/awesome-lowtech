@@ -30,7 +30,7 @@ If you want to contribute please check [Contribute section](.github/CONTRIBUTING
 - [Green geeks](https://www.greengeeks.com/) - Web hosting
 - [Fit on a floppy](https://fitonafloppy.website/)
 ## Hardware
-- [https://www.label-emmaus.co/fr/catalogue/multimedia/](https://www.label-emmaus.co/fr/catalogue/multimedia/) - Buy reconditioned hardware (french)
+- [Label Emmaüs](https://www.label-emmaus.co/fr/catalogue/multimedia/) - Buy reconditioned hardware (french)
 ### Phones
 - [Light Phone](https://www.thelightphone.com/)
 ### Computers
