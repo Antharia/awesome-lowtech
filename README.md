@@ -27,6 +27,8 @@ If you want to contribute please check [Contribute section](.github/CONTRIBUTING
 ### Art
 ### Web
 - [Simple Web](https://simpleweb.iscute.ovh/) - Simple web is cute
+- [Green geeks](https://www.greengeeks.com/) - Web hosting
+- [Fit on a floppy](https://fitonafloppy.website/)
 ## Hardware
 ### Phones
 - [Light Phone](https://www.thelightphone.com/)
