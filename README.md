@@ -12,6 +12,7 @@ If you want to contribute please check [Contribute section](.github/CONTRIBUTING
 - [Kai OS](https://www.kaiostech.com/) - An OS for low level smartphones
 - [antiX Linux](https://antixlinux.com/) - Lightweight Linux distro
 - [LXLE](https://www.lxle.net/) - Linux distro for aging computers
+- [GalliumOS](https://galliumos.org/) - A fast and lightweight Linux distro for ChromeOS devices
 ### Decentralized alternatives to mainstream services
 - [twtxt](https://twtxt.readthedocs.io/en/latest/) - Alternative to Twitter
 - [Zeronet](https://zeronet.io/) - Alternative to WWW
