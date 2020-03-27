@@ -12,10 +12,12 @@ If you want to contribute please check [Contribute section](.github/CONTRIBUTING
 - [Kai OS](https://www.kaiostech.com/) - An OS for low level smartphones
 - [antiX Linux](https://antixlinux.com/) - Lightweight Linux distro
 - [LXLE](https://www.lxle.net/) - Linux distro for aging computers
+
 ### Decentralized alternatives to mainstream services
 - [twtxt](https://twtxt.readthedocs.io/en/latest/) - Alternative to Twitter
 - [Zeronet](https://zeronet.io/) - Alternative to WWW
 - [Beaker browser](https://beakerbrowser.com/) -  Alternative to WWW
+- [NewPipe](https://newpipe.schabi.org/) - Alternative to Youtube Mobile Client
 
 ### Cloud
 - [Syncthing](https://syncthing.net/) - Local and decentralized file sync software
