@@ -43,5 +43,6 @@ If you want to contribute please check [Contribute section](.github/CONTRIBUTING
 - [Homebrew Server ](https://homebrewserver.club/) - Self Host Low tech meetups
 - [Open repair Alliance](https://openrepair.org/) - Make electronic products more durable and easier to repair.
 - [GreenIT](https://www.greenit.fr/) - Digital low-tech french community
+- [Awesome green IT](https://github.com/alvessteve/awesome-green-it) - Similar Awesome curation list about green IT
 ## Notes
 This list just started. Please PR to make it really "awesome".
